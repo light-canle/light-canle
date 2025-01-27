@@ -3,6 +3,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=paulcody8812)](https://solved.ac/paulcody8812)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=light-canle&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![light-canle's GitHub stats](https://github-readme-stats.vercel.app/api?username=light-canle&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=light-canle&layout=compact)
