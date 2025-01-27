@@ -13,7 +13,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=light-canle&layout=compact)
 
 - I'm interested in
-<img src="https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/godotengine-478cbf?style=flat-square&logo=GodotEngine&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-00599c?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/opengl-5586a4?style=flat-square&logo=OpenGL&logoColor=white"/>
 
 - 프로필 방문수<br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight-canle&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%ED%94%84%EB%A1%9C%ED%95%84+%EB%B0%A9%EB%AC%B8+%EC%88%98&edge_flat=false)  
